@@ -6,3 +6,4 @@ Neural network VBA under MS Excel
 "Save Sheet" - saved weight matrices
 
 Launching a neural network in "VBA Macros" - procedure NNet()
+http://www.shumkoff.ru
